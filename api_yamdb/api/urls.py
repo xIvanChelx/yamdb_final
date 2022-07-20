@@ -8,7 +8,6 @@ from .views import (
     NewUserViewSet,
     ReviewViewSet,
     TitleViewSet,
-    NewUserViewSet,
     TokenObtainView,
     ListUsersViewSet,
 )
