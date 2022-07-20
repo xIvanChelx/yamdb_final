@@ -4,7 +4,7 @@ import os
 from django.contrib.auth.models import AbstractUser
 from django.db import models
 
-from .validators import year_validator, score_validator
+from .validators import score_validator, year_validator
 
 USER = "user"
 MODERATOR = "moderator"
